@@ -23,8 +23,6 @@ socket.on(
     hintsEnabled,
     customWords,
     participants,
-  }) => {
-    console.log("connected");
-  }
+  }) => {}
 );
 </script>
